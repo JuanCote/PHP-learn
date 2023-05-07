@@ -1,0 +1,7 @@
+http://localhost/php_basics/lesson2/hw/index.php; 17-41-15; ::1
+http://localhost/php_basics/lesson2/hw/index.php; 17-41-22; ::1
+http://localhost/php_basics/lesson2/hw/index.php; 17-42-15; ::1
+http://localhost/php_basics/lesson2/hw/article.php?id=1; 17-42-26; ::1
+http://localhost/php_basics/lesson2/hw/edit.php?id=1; 17-42-31; ::1
+http://localhost/php_basics/lesson2/hw/edit.php?id=1; 17-42-34; ::1
+http://localhost/php_basics/lesson2/hw/index.php; 17-42-35; ::1
