@@ -14,8 +14,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
 	foreach ($cats as $cat) {
     if ($cat['title'] == $cat_title) {
         $cat_id = $cat['id_cat'];
-        break; // Optional: If you want to exit the loop after finding the matching category
-    }
+        break; 
 	}
 	$fields['id_cat'] = $cat_id;
 	if($fields['title'] === '' || $fields['content'] === ''){
